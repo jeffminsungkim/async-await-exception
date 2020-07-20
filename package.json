@@ -1,0 +1,22 @@
+{
+  "name": "async-await-exception",
+  "version": "0.0.1",
+  "description": "A demonstration of how async function and a non-async function handle an error when an exception has raised",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffminsungkim/async-await-exception.git"
+  },
+  "keywords": [
+    "async/await"
+  ],
+  "author": "Minsung Kim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeffminsungkim/async-await-exception/issues"
+  },
+  "homepage": "https://github.com/jeffminsungkim/async-await-exception#readme"
+}
